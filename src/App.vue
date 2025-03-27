@@ -1,5 +1,3 @@
-
-
 <template>
   <div class="app-container">
     <template v-if="isLoggedIn">
